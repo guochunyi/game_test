@@ -38,6 +38,9 @@ end
 # Use unicorn as the app server
 # gem 'unicorn'
 
+# Use slim for template engine
+gem "slim-rails"
+
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
 
